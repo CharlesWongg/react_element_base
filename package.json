@@ -1,5 +1,5 @@
 {
-  "name": "crm",
+  "name": "react_element_base",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,17 @@
   },
   "devDependencies": {
     "redux-devtools": "^3.5.0"
-  }
+  },
+  "description": "react + elementUI base",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesWongg/react_element_base.git"
+  },
+  "author": "CharlesWong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesWongg/react_element_base/issues"
+  },
+  "homepage": "https://github.com/CharlesWongg/react_element_base#readme"
 }
